@@ -1,0 +1,17 @@
+.card {
+    width: 350px;
+    height: 300px;
+    box-shadow: 5px 2px 15px rgb(228, 215, 215);
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+  }
+  img {
+    width: 100%;
+    height: 175px;
+  }
+  p {
+    margin-top: 30px;
+    font-size: 17px;
+    margin-left: 15px;
+  }

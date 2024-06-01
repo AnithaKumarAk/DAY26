@@ -1,0 +1,19 @@
+.card-container {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  margin: 55px;
+  flex-wrap: wrap;
+}
+
+.text {
+  all: unset;
+  margin: 5px;
+}
+
+.title {
+  text-align: center;
+  font-size: 17px;
+  margin: 5px;
+}
